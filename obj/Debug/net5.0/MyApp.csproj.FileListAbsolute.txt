@@ -1,0 +1,16 @@
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\MyApp.exe
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\MyApp.deps.json
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.json
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.dev.json
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\MyApp.dll
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\ref\MyApp.dll
+D:\LHD\hello-world\MyApp\bin\Debug\net5.0\MyApp.pdb
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.csprojAssemblyReference.cache
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfoInputs.cache
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfo.cs
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.csproj.CoreCompileInputs.cache
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.dll
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\ref\MyApp.dll
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.pdb
+D:\LHD\hello-world\MyApp\obj\Debug\net5.0\MyApp.genruntimeconfig.cache
